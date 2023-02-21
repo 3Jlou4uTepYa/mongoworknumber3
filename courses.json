@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63f48ba03c2b6d181b3a812f"
+  },
+  "name": "P2-y",
+  "description": "this courses evaluating programming",
+  "instructor": "Daniil troyanov",
+  "students": "36565"
+},{
+  "_id": {
+    "$oid": "63f48c7a3c2b6d181b3a8132"
+  },
+  "name": "?-?",
+  "description": "this information is not found",
+  "instructor": "Anonimus",
+  "students": "01010"
+}]

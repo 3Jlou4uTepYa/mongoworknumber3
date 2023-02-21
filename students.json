@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63f48bce3c2b6d181b3a8130"
+  },
+  "name": "Bardin Vladislav",
+  "email": " bardin_vlad@rambler.ru",
+  "courses": "36565"
+},{
+  "_id": {
+    "$oid": "63f48bf13c2b6d181b3a8131"
+  },
+  "name": "Podkovirov Roman",
+  "email": "roman_romani4@mail.ru",
+  "courses": "36565"
+},{
+  "_id": {
+    "$oid": "63f48c9e3c2b6d181b3a8133"
+  },
+  "name": "Noname",
+  "email": "this information is not found",
+  "courses": "01010"
+}]
